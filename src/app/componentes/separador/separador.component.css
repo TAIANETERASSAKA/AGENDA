@@ -1,0 +1,11 @@
+.separacao-alfab{
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 700;
+line-height: 33px;
+text-align: left;
+color:  rgb(82, 149, 224);
+border-bottom: 1px solid  rgb(82, 149, 224);
+text-transform: uppercase;
+
+}

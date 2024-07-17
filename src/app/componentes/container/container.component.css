@@ -1,0 +1,9 @@
+.fundo{
+    background: white;
+    padding: 56px 134px ;
+    border-radius: 16px 16px 16px 16px;
+    width: 700px;
+    max-width: 90%;
+    box-sizing: border-box;
+    margin: 84px auto;
+}
